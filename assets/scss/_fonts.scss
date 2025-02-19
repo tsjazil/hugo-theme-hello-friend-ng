@@ -48,3 +48,96 @@
   src: url("fonts/Inter-BoldItalic.woff2") format("woff2"),
        url("fonts/Inter-BoldItalic.woff") format("woff");
 }
+
+
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/EBGaramond-Italic.woff2") format("woff2"),
+       url("fonts/EBGaramond-Italic.woff") format("woff"),
+       url("fonts/EBGaramond-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src : url("fonts/EBGaramond-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: url("fonts/EBGaramond-MediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("fonts/EBGaramond-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src : url("fonts/EBGaramond-SemiBoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src : url("fonts/EBGaramond-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+      src :  url("fonts/EBGaramond-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+       src :url("fonts/EBGaramond-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src : url("fonts/EBGaramond-ExtraBoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Uncut Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src : url("fonts/UncutSans-Medium.woff") format("woff"),
+        url("fonts/UncutSans-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src : url("fonts/RobotoMono-VariableFont_wght.ttf") format("truetype");
+}
